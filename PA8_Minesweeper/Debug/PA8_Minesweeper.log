@@ -1,0 +1,13 @@
+﻿  Board.cpp
+C:\Users\wayne\OneDrive\Desktop\PA8_Minesweeper\PA8_Minesweeper\Board.cpp(362,63): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\wayne\OneDrive\Desktop\PA8_Minesweeper\PA8_Minesweeper\Board.cpp(362,50): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\wayne\OneDrive\Desktop\PA8_Minesweeper\PA8_Minesweeper\Board.cpp(304): warning C4715: 'Board::nonrecursiveReveal': not all control paths return a value
+  PA8_Minesweeper.vcxproj -> C:\Users\wayne\OneDrive\Desktop\PA8_Minesweeper\Debug\PA8_Minesweeper.exe
